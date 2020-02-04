@@ -24,12 +24,12 @@
 </head>
 
 <body>
-	<button onclick="myFunction1()">Lacazette</button>
+	<button onclick="myFunction1()">Hi</button>
 	<div id="myDIV1" style="display:none;">
 	  Number 9
 	</div>
 	
-	<button onclick="myFunction2()">Bellerin</button>
+	<button onclick="myFunction2()">Bye</button>
 	<div id="myDIV2" style="display:none;">
 	  Number 2
 	</div>
