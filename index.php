@@ -24,14 +24,14 @@
 </head>
 
 <body>
-	<button onclick="myFunction1()">Hello!</button>
+	<button onclick="myFunction1()">Arsenal</button>
 	<div id="myDIV1" style="display:none;">
 	  Hi!
 	</div>
 	
-	<button onclick="myFunction2()">Goodbye!</button>
+	<button onclick="myFunction2()">Arteta</button>
 	<div id="myDIV2" style="display:none;">
-	  Bye!
+	  Number one
 	</div>
 </body>
 </html>
